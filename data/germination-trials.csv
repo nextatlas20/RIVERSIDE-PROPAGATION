@@ -1,0 +1,8 @@
+lot_id,trial_id,test_day,germinated,seeds_sown
+LT-01,TS-101,3,15,20
+LT-02,TS-102,2,9,12
+LT-03,TS-103,5,8,10
+LT-04,TS-104,4,14,20
+LT-01,TS-105,8,12,16
+LT-99,TS-106,1,1,1
+LT-02,TS-107,7,broken
