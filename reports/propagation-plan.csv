@@ -1,0 +1,5 @@
+lot_id,crop,bed,test_day,germination_percent,decision,packets_to_stage
+LT-01,Calendula,North,8,75,READY,6
+LT-02,Basil,Herb,2,75,READY,4
+LT-03,Radish,East,5,80,READY,4
+LT-04,Beans,South,4,70,HOLD,0
